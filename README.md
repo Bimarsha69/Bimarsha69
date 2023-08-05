@@ -4,7 +4,7 @@
 Skills: JS / HTML / CSS / PYTHON
 
 - 🔭 I’m currently working on Discord Bot 
-- 🌱 I’m currently learning Java Script  
+- 🌱 I’m currently learning JavaScript  
 - 🤔 I’m looking for help with Python 
 - 😄 Pronouns: He/Him 
 
